@@ -1,0 +1,11 @@
+/Users/somsak/PJ-SMK/HOS-AI/disease_sync/target/debug/deps/const_oid-3be46842a04f34fa.d: /Users/somsak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/const-oid-0.9.6/src/lib.rs /Users/somsak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/const-oid-0.9.6/src/checked.rs /Users/somsak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/const-oid-0.9.6/src/arcs.rs /Users/somsak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/const-oid-0.9.6/src/encoder.rs /Users/somsak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/const-oid-0.9.6/src/error.rs /Users/somsak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/const-oid-0.9.6/src/parser.rs /Users/somsak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/const-oid-0.9.6/src/../README.md
+
+/Users/somsak/PJ-SMK/HOS-AI/disease_sync/target/debug/deps/libconst_oid-3be46842a04f34fa.rmeta: /Users/somsak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/const-oid-0.9.6/src/lib.rs /Users/somsak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/const-oid-0.9.6/src/checked.rs /Users/somsak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/const-oid-0.9.6/src/arcs.rs /Users/somsak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/const-oid-0.9.6/src/encoder.rs /Users/somsak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/const-oid-0.9.6/src/error.rs /Users/somsak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/const-oid-0.9.6/src/parser.rs /Users/somsak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/const-oid-0.9.6/src/../README.md
+
+/Users/somsak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/const-oid-0.9.6/src/lib.rs:
+/Users/somsak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/const-oid-0.9.6/src/checked.rs:
+/Users/somsak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/const-oid-0.9.6/src/arcs.rs:
+/Users/somsak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/const-oid-0.9.6/src/encoder.rs:
+/Users/somsak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/const-oid-0.9.6/src/error.rs:
+/Users/somsak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/const-oid-0.9.6/src/parser.rs:
+/Users/somsak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/const-oid-0.9.6/src/../README.md:

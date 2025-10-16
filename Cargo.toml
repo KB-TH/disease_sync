@@ -10,6 +10,7 @@ log = "0.4"
 flexi_logger = "0.28"
 chrono = "0.4"
 num_cpus = "1.16"
+dotenv = "0.15"
 
 [profile.release]
 opt-level = 3
